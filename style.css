@@ -12,7 +12,7 @@ body {
         .card {
             width: 100px;
             height: 150px;
-            background: url("/image.png");
+            background: url("image.png");
             background-size: cover;
             background-position: center;
             border: 2px solid #333;
